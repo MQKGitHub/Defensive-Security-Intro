@@ -12,11 +12,12 @@ An introduction to defensive security and key areas such as Threat Intelligence,
 ---
 
 ### 🗝️ Key Concepts
-- **Defensive Security:** Focuses on preventing intrusions, detecting them when they happen, and responding properly.
-- **Security Operations Center (SOC):** A team of professionals monitoring systems and networks for malicious activity.
-- **Threat Intelligence:** Collecting and analysing data about threats to build a more informed defence strategy.
-- **Digital Forensics and Incident Response (DFIR):** Investigating attacks and responding to minimise damage and recover quickly.
-- **Malware Analysis:** Studying malware like viruses and ransomware to understand how they work and how to defend against them.
+- **Defensive Security** – Focuses on preventing intrusions, detecting them when they happen, and responding properly.
+- **Security Operations Center (SOC)** – A team of professionals monitoring systems and networks for malicious activity.
+- **Threat Intelligence** – Collecting and analysing data about threats to build a more informed defence strategy.
+- **Digital Forensics and Incident Response (DFIR)** – Investigating attacks and responding to minimise damage and recover quickly.
+- **Malware Analysis** – Studying malware like viruses and ransomware to understand how they work and how to defend against them.
+
 
 ---
 
