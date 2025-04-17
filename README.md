@@ -44,11 +44,11 @@ An introduction to defensive security and key areas such as Threat Intelligence,
 ---
 
 ### 🌐 Real-World Application
-- **SIEM tools** help SOC analysts detect threats early by triggering alerts on suspicious activity like failed logins or unusual IP addresses.
-- **Threat Intelligence** is used by companies to understand attacker behaviour and adjust defences to match.
-- **Digital Forensics** tools help investigate cybercrime by examining logs, memory dumps, and systems to find how an attack happened.
-- **Incident Response** is the structured process of reacting to cyber attacks, ensuring systems recover quickly and data is protected.
-- **Malware Analysis** gives insight into how malware works, so defenders can block it and prevent future infections.
+> - **SIEM tools** help SOC analysts detect threats early by triggering alerts on suspicious activity like failed logins or unusual IP addresses.
+> - **Threat Intelligence** is used by companies to understand attacker behaviour and adjust defences to match.
+> - **Digital Forensics** tools help investigate cybercrime by examining logs, memory dumps, and systems to find how an attack happened.
+> - **Incident Response** is the structured process of reacting to cyber attacks, ensuring systems recover quickly and data is protected.
+> - **Malware Analysis** gives insight into how malware works, so defenders can block it and prevent future infections.
 
 ---
 
@@ -57,5 +57,3 @@ It was fascinating to see how a SOC works behind the scenes.
 The overlap between forensic science and **digital forensics** really stood out.  
 Using SIEM tools felt like being a digital detective — hunting for suspicious activity and learning how to respond.  
 Finally understanding what **malware** is and what **malware defenders** actually do made a big impact on me.
-
----
